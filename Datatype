@@ -9,5 +9,6 @@ double d = 12345 - 123456;
 boolean boo = true;
 char c = 'a';
 int bb = c;
-		System.out.println(bb);
-	
+System.out.println(bb);
+}
+
