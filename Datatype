@@ -10,4 +10,4 @@ boolean boo = true;
 char c ='a';
 int bb = c;
 system.out.println(bb);
-
+}
