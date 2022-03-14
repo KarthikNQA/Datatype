@@ -1,5 +1,4 @@
 public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		byte b = 100;
 		short s = 32767;
 		int i = 214783647;
