@@ -7,8 +7,7 @@ long l = 12345678909l;
 float f = 123.45f;
 double d = 12345 - 123456;
 boolean boo = true;
-char c = 'a';
+char c ='a';
 int bb = c;
-System.out.println(bb);
-}
+system.out.println(bb);
 
