@@ -1,13 +1,4 @@
 public static void main(String[] args)
 {
-byte b=100;
-short s=32767;
-int i = 214783647;
-long l = 12345678909l;
-float f = 123.45f;
-double d = 12345 - 123456;
-boolean boo = true;
-char c ='a';
-int bb = c;
-system.out.println(bb);
+
 }
